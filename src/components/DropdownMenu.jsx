@@ -29,6 +29,7 @@ function DropdownMenu({forwardRef, user, _logOutRedirect}) {
             v{getAppVersion()}
           </SubtleLink>
         </li>
+        <li>My contribution</li>
         <li>
           <SubtleLink
             tabIndex={0}
